@@ -1,0 +1,10 @@
+# Site settings
+title: Inf-2202 Concurrent and Data-Intensive Programming
+# email: bjorn@cs.uit.no, einar@cs.uit.no
+description: > # this means to ignore newlines until "baseurl:"
+  Inf-2202 Concurrent and Data-Intensive Programming, fall 2015, University of Tromsø. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://uit-inf-2202.github.io/" 
+
+# Build settings
+markdown: kramdown
