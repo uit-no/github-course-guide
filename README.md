@@ -46,7 +46,7 @@ If possible, creating a redirect in the UiT web server makes it easier to rememb
 To manage mandatory assignments you should use GitHub Classroom as follows:
 
 1. Goto https://classroom.github.com/classrooms and create a new classroom that is linked to your course organization.
-2. Apply for an education discount at https://education.github.com/discount_requests/. This will give your organization private repositories needed for individual and group assignments. **Note** processing a request takes several days, so make sure that this is done weeks before you hand out the first assignment.
+2. Apply for an education discount at https://education.github.com/discount_requests/new. This will give your organization private repositories needed for individual and group assignments. **Note** processing a request takes several days, so make sure that this is done weeks before you hand out the first assignment.
 
 For each assignment:
 
@@ -65,3 +65,5 @@ For hand-in. Simply pull the content of all repositories.
 This is a list of useful tips for managing your course:
 * Create a mailing list for the course at: https://list.uit.no/sympa
 * Turn of automatic watching of repositories at https://github.com/settings/notifications to avoid receiving an email each time a student commits to a repository.
+* If you are using (an OAuth) git client such as SmartGit you may need to grant access to the new repository.
+
