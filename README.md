@@ -66,4 +66,5 @@ This is a list of useful tips for managing your course:
 * Create a mailing list for the course at: https://list.uit.no/sympa
 * Turn of automatic watching of repositories at https://github.com/settings/notifications to avoid receiving an email each time a student commits to a repository.
 * If you are using (an OAuth) git client such as SmartGit you may need to grant access to the new repository.
-
+* Create a Slack team for the course (free, unlimited users, but only 10K most recent messages are saved): https://slack.com/
+* Add a GitHub boot to a slack room to automatically notify the team when the course website is changed.
