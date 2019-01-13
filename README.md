@@ -20,7 +20,7 @@ First we need an organization that we will use to administer the content and mem
 
 Then:
 
-6. Create a new Team called **Owners** with all teaching staff as members. This team will be given automatic access to the student repositories created as described below.
+6. Create a new Team called **Owner** with all teaching staff as members. This team will be given automatic access to the student repositories created as described below.
 7. In your organizations members list, make at least yourself “public” such that your membership is visible to everyone and displayed on your public profile.
 
 Then students must be invited to join the organization. To do this you need to know their GitHub username. You may want to put all students into a team named “Students”.
