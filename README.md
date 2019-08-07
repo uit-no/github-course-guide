@@ -46,7 +46,7 @@ If possible, creating a redirect in the UiT web server makes it easier to rememb
 To manage mandatory assignments you should use GitHub Classroom as follows:
 
 1. Goto https://classroom.github.com/classrooms and create a new classroom that is linked to your course organization.
-2. Apply for an education discount at https://education.github.com/discount_requests/new. This will give your organization private repositories needed for individual and group assignments. **Note** processing a request takes several days, so make sure that this is done weeks before you hand out the first assignment.
+2. Apply for an education discount at https://education.github.com/discount_requests/new. This will give your organization private repositories needed for individual and group assignments. **Note** processing a request takes several days, so make sure that this is done weeks before you hand out the first assignment. **Note 2** If you already have an education discount for your github account, you can go to https://education.github.com/benefits, find your organization in the list and upgrade the organization.
 
 For each assignment:
 
