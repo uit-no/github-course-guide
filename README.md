@@ -20,7 +20,7 @@ First we need an organization that we will use to administer the content and mem
 
 Then:
 
-6. Create a new Team called **Owner** with all teaching staff as members. This team will be given automatic access to the student repositories created as described below.
+6. Create a new Team called **Owners** with all teaching staff as members. This team will be given automatic access to the student repositories created as described below.
 7. In your organizations members list, make at least yourself “public” such that your membership is visible to everyone and displayed on your public profile.
 
 Then students must be invited to join the organization. To do this you need to know their GitHub username. You may want to put all students into a team named “Students”.
@@ -30,7 +30,7 @@ Then students must be invited to join the organization. To do this you need to k
 To create a website for the course that can be updated by pushing to a repository, do the following:
 
 1. In your organization, create a new public repository named (organization name).github.io. For the uit-inf-2202-f16 organization the name is uit-inf-2202-f16.github.io.
-2. Give the Owners time write access to the repository.
+2. Give the Owners permission to write access to the repository.
 2. Clone and push the content of this repository, that contains a website with a UiT layout, to your repository. 
 3. Modify the syllabus in the index.md Markdown file in your repository.
 4. Modify the README.md file in your repository. You may for example say that “This is the syllabus for (your course)…”
@@ -45,7 +45,7 @@ If possible, creating a redirect in the UiT web server makes it easier to rememb
 
 To manage mandatory assignments you should use GitHub Classroom as follows:
 
-1. Goto https://classroom.github.com/classrooms and create a new classroom that is linked to your course organization.
+1. Goto https://classroom.github.com/classrooms and create a new classroom that is linked to your course organization. You may need to grant access to the course organization.
 2. Apply for an education discount at https://education.github.com/discount_requests/new. This will give your organization private repositories needed for individual and group assignments. **Note** processing a request takes several days, so make sure that this is done weeks before you hand out the first assignment. **Note 2** If you already have an education discount for your github account, you can go to https://education.github.com/benefits, find your organization in the list and upgrade the organization.
 
 For each assignment:
