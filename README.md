@@ -13,8 +13,8 @@ This guide consist of step-by-step instructions and tips for setting up a GitHub
 First we need an organization that we will use to administer the content and members of the course. You need to create a new organization each time the course is given.
 
 1. Go to: https://github.com/organizations/new
-2. Give the organization a name using the following naming scheme: uit-(course code)-(f for fall or s for spring)(year). For example the name for the inf-2202 course given in the fall of 2016 is **uit-inf-2202-f16**
-3. Choose a plan with unlimited members and public repositories for free. 
+2. Choose the Free plan ti unlimited members and repositories for free. 
+3. Give the organization a name using the following naming scheme: uit-(course code)-(f for fall or s for spring)(year). For example the name for the inf-2202 course given in the fall of 2016 is **uit-inf-2202-f16**
 4. Invite the teach assistants to the organization. You need to know their GitHub usernames.
 5. Fill in organization details.
 
