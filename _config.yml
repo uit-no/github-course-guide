@@ -7,8 +7,6 @@ contact:
   email: firstname.lastname@uit.no
   name: Firstname Lastname
 
-url: "http://uit-inf-XXX-Y20YY.github.io/"
-
 # you don't need to adapt the settings below
 baseurl: ""
 markdown: kramdown
