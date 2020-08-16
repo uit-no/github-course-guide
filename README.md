@@ -50,7 +50,7 @@ know their GitHub username. You may want to put all students into a team named
 To create a website for the course that can be updated by pushing to a repository, do the following:
 
 1. In your organization, create a new public repository named (organization name).github.io. For the uit-inf-2202-f16 organization the name is uit-inf-2202-f16.github.io.
-2. Clone and push the content of this repository, that contains a website with a UiT layout, to your repository. 
+2. Clone and push the content of this repository, that contains a website with a UiT layout, to your repository.
 3. Modify the syllabus in the index.md Markdown file in your repository.
 4. Modify the README.md file in your repository. You may for example say that “This is the syllabus for (your course)…”
 
@@ -65,18 +65,26 @@ If possible, creating a redirect in the UiT web server makes it easier to rememb
 
 To manage mandatory assignments you should use GitHub Classroom as follows:
 
-1. Goto https://classroom.github.com/classrooms and create a new classroom that is linked to your course organization. You may need to grant access to the course organization.
+1. Create a [new classroom](https://classroom.github.com/classrooms/new) and
+   link it to the GitHub organization which you just created (above). You may
+   need to grant access to the course organization.
 2. Give your TAs the link to the new classroom.
 
 For each assignment:
 
-1. Create a public repository in your organization where you put the assignment description, pre-code, etc
-2. In GitHub classroom create a new assignment. The assignment can be either individual or for a group.
-3. Distributed the link for the assignment to the students. 
+1. Create a public repository in your organization where you put the assignment
+   description, pre-code, etc.
+2. In GitHub classroom create a new assignment. The assignment can be either
+   individual or for a group.
+3. Distribute the link for the assignment to the students.
 
-For individual assignments GitHub will automatically create a new private repository for the student in the course organization. Only the student and thew owners team have access to this repository.
+For individual assignments GitHub will automatically create a new private
+repository for the student in the course organization. Only the student and
+thew owners team have access to this repository.
 
-For group assignments GitHub will automatically create a new private repository for the group. It will also give the students the opportunity to create and join teams.
+For group assignments GitHub will automatically create a new private repository
+for the group. It will also give the students the opportunity to create and
+join teams.
 
 For hand-in. Simply pull the content of all repositories.
 
