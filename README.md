@@ -47,18 +47,10 @@ know their GitHub username. You may want to put all students into a team named
 
 ## Course website
 
-To create a website for the course that can be updated by pushing to a repository, do the following:
-
-1. In your organization, create a new public repository named (organization name).github.io. For the uit-inf-2202-f16 organization the name is uit-inf-2202-f16.github.io.
-2. Clone and push the content of this repository, that contains a website with a UiT layout, to your repository.
-3. Modify the syllabus in the index.md Markdown file in your repository.
-4. Modify the README.md file in your repository. You may for example say that “This is the syllabus for (your course)…”
-
-The index.md will automatically be converted to an HTML file and shown at the address (repository name). For example, the uit-inf-2202-f16.github.io repository is at https://uit-inf-2202-f16.github.io/
-
-You and the TA’s can now update the syllabus, add lecture notes, and so on by pushing to the repository.
-
-If possible, creating a redirect in the UiT web server makes it easier to remember the course website address. The inf-2202 course is for example redirected from: http://www.cs.uit.no/kursinfo/inf2202
+You can create the course website from
+[this template](https://github.com/uit-no/github-course-template)
+by following the instructions at
+https://github.com/uit-no/github-course-template/blob/master/README.md.
 
 
 ## Managing assignments
