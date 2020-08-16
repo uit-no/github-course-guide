@@ -20,16 +20,29 @@ for handing out and managing mandatory assignments.
 
 ## GitHub organization
 
-First we need an organization that we will use to administer the content and members of the course. You need to create a new organization each time the course is given.
+First we need an organization that we will use to administer the content and
+members of the course. You need to create a new organization each time the
+course is given. The reason for this is that each course needs to be attached
+to a GitHub organization and course TAs need *owner* access in the
+corresponding organization.
 
 1. Go to: https://github.com/organizations/new
-2. Choose the Free plan ti unlimited members and repositories for free. 
-3. Give the organization a name using the following naming scheme: uit-(course code)-(f for fall or s for spring)(year). For example the name for the inf-2202 course given in the fall of 2016 is **uit-inf-2202-f16**
-4. Invite the teach assistants to the organization as owners. You need to know their GitHub usernames.
-5. Fill in organization details.
-6. In your organizations members list, make at least yourself “public” such that your membership is visible to everyone and displayed on your public profile.
+2. Choose the *Free* plan (unlimited repositories, unlimited collaborators).
+3. Give the organization a name using the following naming scheme: uit-(course
+   code)-(f for fall or s for spring)(year). For example the name for the
+   inf-2202 course given in the fall of 2016 is **uit-inf-2202-f16**
+4. "This organization belongs to:" choose "A business or institution"
+   and "UiT The Arctic University of Norway".
+5. Invite the teach assistants to the organization as owners. You need to know
+   their GitHub usernames.
+6. Fill in organization details.
+7. In your organizations members list, make at least yourself "public" such
+   that your membership is visible to everyone and displayed on your public
+   profile so that the organization has a contact point.
 
-Then students must be invited to join the organization. To do this you need to know their GitHub username. You may want to put all students into a team named “Students”.
+Then students must be invited to join the organization. To do this you need to
+know their GitHub username. You may want to put all students into a team named
+“Students”.
 
 
 ## Course website
