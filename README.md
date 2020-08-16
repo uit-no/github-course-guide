@@ -1,6 +1,8 @@
 # Using GitHub Classroom for UiT Courses
 
-Lars Ailo Bongo (larsab@cs.uit.no)
+Contacts:
+- Lars Ailo Bongo (larsab@cs.uit.no)
+- Radovan Bast (radovan.bast@uit.no)
 
 Please help improving this guide by fixing mistakes, adding clarifications, and new tips.
 
