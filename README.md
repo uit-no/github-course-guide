@@ -1,4 +1,4 @@
-# Using GitHub Classroom for UiT Courses
+# Using GitHub Classroom for UiT courses
 
 Contacts:
 - Lars Ailo Bongo (larsab@cs.uit.no)
@@ -12,9 +12,13 @@ We recommend using GitHub instead of Fronter for two reasons:
 - We believe in open access publication and believe that it should apply for our courses as well as research results.
 - We believe that our students should be trained to use professional collaboration and version management tools.
 
-This guide consist of step-by-step instructions and tips for setting up a GitHub organization and using a repository for publishing a course website. In addition, we describe how to use GitHub Classroom for handing out and managing mandatory assignments.
+This guide consist of step-by-step instructions and tips for setting up a
+GitHub organization and using a repository for publishing a course website. In
+addition, we describe how to use [GitHub Classroom](https://classroom.github.com/)
+for handing out and managing mandatory assignments.
 
-## GitHub Organization
+
+## GitHub organization
 
 First we need an organization that we will use to administer the content and members of the course. You need to create a new organization each time the course is given.
 
@@ -27,7 +31,8 @@ First we need an organization that we will use to administer the content and mem
 
 Then students must be invited to join the organization. To do this you need to know their GitHub username. You may want to put all students into a team named “Students”.
 
-## Course Website
+
+## Course website
 
 To create a website for the course that can be updated by pushing to a repository, do the following:
 
@@ -42,7 +47,8 @@ You and the TA’s can now update the syllabus, add lecture notes, and so on by 
 
 If possible, creating a redirect in the UiT web server makes it easier to remember the course website address. The inf-2202 course is for example redirected from: http://www.cs.uit.no/kursinfo/inf2202
 
-## Managing Assignments
+
+## Managing assignments
 
 To manage mandatory assignments you should use GitHub Classroom as follows:
 
@@ -61,7 +67,8 @@ For group assignments GitHub will automatically create a new private repository 
 
 For hand-in. Simply pull the content of all repositories.
 
-## Useful tips
+
+## Tips
 
 This is a list of useful tips for managing your course:
 * Turn of automatic watching of repositories at https://github.com/settings/notifications to avoid receiving an email each time a student commits to a repository.
