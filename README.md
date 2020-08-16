@@ -8,7 +8,7 @@ Please help improving this guide by fixing mistakes, adding clarifications, and 
 
 This is the unofficial guide for using GitHub for UiT courses.
 
-We recommend using GitHub instead of Fronter for two reasons:
+We recommend using GitHub for two reasons:
 - We believe in open access publication and believe that it should apply for our courses as well as research results.
 - We believe that our students should be trained to use professional collaboration and version management tools.
 
