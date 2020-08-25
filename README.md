@@ -23,7 +23,7 @@ for handing out and managing mandatory assignments.
 First we need an organization that we will use to administer the content and
 members of the course. You need to create a new organization each time the
 course is given. The reason for this is that each course needs to be attached
-to a GitHub organization and course TAs need *owner* access in the
+to a GitHub organization and that GitHub Classroom requires course TAs to have *owner* access in the
 corresponding organization.
 
 1. Go to: https://github.com/organizations/new
@@ -39,11 +39,12 @@ corresponding organization.
 7. In your organizations members list, make at least yourself "public" such
    that your membership is visible to everyone and displayed on your public
    profile so that the organization has a contact point.
+8. We recommend enabling two factor authentication for the organization.
 
-Then students must be invited to join the organization. To do this you need to
-know their GitHub username. You may want to put all students into a team named
-“Students”.
-
+Then students must be invited to join the organization. They can either be manually 
+added, but to do this you need to know their GitHub username. Alternatively, students
+can be automatically added to the organization by sending them the GitHub Classroom link
+to the first assignment. But you still need to map the GitHub usersnames with their real names.
 
 ## Course website
 
