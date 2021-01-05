@@ -59,8 +59,8 @@ https://github.com/uit-no/github-course-template/blob/master/README.md.
 To manage mandatory assignments you should use GitHub Classroom as follows:
 
 1. Create a [new classroom](https://classroom.github.com/classrooms/new) and
-   link it to the GitHub organization which you just created (above). You may
-   need to grant access to the course organization.
+   link it to the GitHub organization which you just created (above). You need
+   need to grant access to the course organization (there is a link in the new classroom page).
 2. Give your TAs the link to the new classroom.
 
 For each assignment:
